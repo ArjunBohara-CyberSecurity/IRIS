@@ -189,8 +189,9 @@ Open → `http://localhost:7860/play`
 
 ## 🧑‍💻 Team
 
-- **Arjun Bohara**
-- **Krishna Sharma**  
+**Arjun Bohara**
+ 
+**Krishna Sharma**  
 
 ---
 
