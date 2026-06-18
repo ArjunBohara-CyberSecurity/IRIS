@@ -146,7 +146,8 @@ curl -X POST https://your-hosted-url/step \
   -d '{"task_name": "hard", "action": {"action_type": "block_ip", "query": "198.51.100.7"}}'
 ```
 
-📄 Docs → https://ArjunBoharaCyberSecurity-IRIS.hf.space/docs
+- 📄 Docs → https://ArjunBoharaCyberSecurity-IRIS.hf.space/docs
+
 ---
 
 ## 🧠 Training Pipeline
