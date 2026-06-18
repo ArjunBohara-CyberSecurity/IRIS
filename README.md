@@ -175,13 +175,13 @@ Open → `http://localhost:7860/play`
 ## 📈 Training Visuals
 
 ### Loss Curve
-<img src="https://github.com/user-attachments/assets/747e2013-9a3a-478d-bcc0-19cbc8938cde" />
+<img src="https://raw.githubusercontent.com/ArjunBohara-CyberSecurity/IRIS/refs/heads/main/assets/loss-iris.png" />
 
 ### Reward Curve
-<img src="https://github.com/user-attachments/assets/7c7a61eb-1cc1-40f5-8bbd-e68bbee92b1a" />
+<img src="https://raw.githubusercontent.com/ArjunBohara-CyberSecurity/IRIS/refs/heads/main/assets/reward-curve.png" />
 
 ### Before vs After
-<img src="https://github.com/user-attachments/assets/855c3b02-2416-4633-ae74-2411ec1de669" />
+<img src="https://raw.githubusercontent.com/ArjunBohara-CyberSecurity/IRIS/refs/heads/main/assets/beforeandafter.png" />
 
 ---
 
