@@ -22,7 +22,7 @@
 - 🧠 **HuggingFace Space** → https://huggingface.co/spaces/ArjunBoharaCyberSecurity/IRIS 
 - 🎮 **Live Demo** → https://arjunboharacybersecurity-iris.hf.space/play
 - 💻 **GitHub** → https://github.com/ArjunBohara-CyberSecurity/IRIS.git
-- 📓 **Colab Notebook** → https://colab.research.google.com/github/gggsiw/secopsops/blob/main/iris_training.ipynb  
+- 📓 **Colab Notebook** → https://colab.research.google.com/github/ArjunBohara-CyberSecurity/IRIS/blob/main/iris_training.ipynb
 
 ---
 
@@ -123,7 +123,7 @@ final_score = base_score + speed_bonus + chain_bonus + fp_penalty
 
 ## 🎮 Try It Live
 
-👉 https://itzrealmee-secopsops.hf.space/play
+👉 https://ArjunBoharaCyberSecurity-IRIS.hf.space/play
 
 ---
 
@@ -146,8 +146,7 @@ curl -X POST https://your-hosted-url/step \
   -d '{"task_name": "hard", "action": {"action_type": "block_ip", "query": "198.51.100.7"}}'
 ```
 
-📄 Docs → https://itzrealmee-secopsops.hf.space/docs
-
+📄 Docs → https://ArjunBoharaCyberSecurity-IRIS.hf.space/docs
 ---
 
 ## 🧠 Training Pipeline
@@ -163,7 +162,7 @@ curl -X POST https://your-hosted-url/step \
 
 ```bash
 git clone https://github.com/ArjunBohara-CyberSecurity/IRIS.git
-cd iris
+cd IRIS
 pip install -r requirements.txt
 python app.py
 ```
@@ -189,8 +188,8 @@ Open → `http://localhost:7860/play`
 
 ## 🧑‍💻 Team
 
-**Krishna Sharma**  
 **Arjun Bohara**
+**Krishna Sharma**  
 
 ---
 
