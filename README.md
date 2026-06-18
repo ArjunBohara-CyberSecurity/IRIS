@@ -23,7 +23,6 @@
 - 🎮 **Live Demo** → https://arjunboharacybersecurity-iris.hf.space/play
 - 💻 **GitHub** → https://github.com/ArjunBohara-CyberSecurity/IRIS.git
 - 📓 **Colab Notebook** → https://colab.research.google.com/github/gggsiw/secopsops/blob/main/iris_training.ipynb  
-- 📖 **Blog** → https://huggingface.co/spaces/itzrealmee/secopsops/blob/main/Blog.MD  
 
 ---
 
